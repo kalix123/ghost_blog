@@ -7,7 +7,7 @@
   "database": {
     "client": "sqlite3",
     "connection": {
-      "filename": "/home/kalix/Documents/code_projects/ghost_blog/content/data/ghost-local.db"
+      "filename": "/var/www/html/ghost_blog/content/data/ghost-local.db"
     }
   },
   "mail": {
@@ -21,6 +21,6 @@
   },
   "process": "local",
   "paths": {
-    "contentPath": "/home/kalix/Documents/code_projects/ghost_blog/content"
+    "contentPath": "/var/www/html/ghost_blog/content"
   }
 }
